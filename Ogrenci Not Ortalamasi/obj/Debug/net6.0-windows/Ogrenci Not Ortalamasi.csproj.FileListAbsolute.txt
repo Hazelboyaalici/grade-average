@@ -1,0 +1,17 @@
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\bin\Debug\net6.0-windows\Ogrenci Not Ortalamasi.exe
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\bin\Debug\net6.0-windows\Ogrenci Not Ortalamasi.deps.json
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\bin\Debug\net6.0-windows\Ogrenci Not Ortalamasi.runtimeconfig.json
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\bin\Debug\net6.0-windows\Ogrenci Not Ortalamasi.dll
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\bin\Debug\net6.0-windows\Ogrenci Not Ortalamasi.pdb
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.csproj.AssemblyReference.cache
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci_Not_Ortalamasi.Form1.resources
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.csproj.GenerateResource.cache
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.AssemblyInfoInputs.cache
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.AssemblyInfo.cs
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.csproj.CoreCompileInputs.cache
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.dll
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\refint\Ogrenci Not Ortalamasi.dll
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.pdb
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\Ogrenci Not Ortalamasi.genruntimeconfig.cache
+C:\Users\HAZEL\Desktop\C# START\Ogrenci Not Ortalamasi\Ogrenci Not Ortalamasi\obj\Debug\net6.0-windows\ref\Ogrenci Not Ortalamasi.dll
